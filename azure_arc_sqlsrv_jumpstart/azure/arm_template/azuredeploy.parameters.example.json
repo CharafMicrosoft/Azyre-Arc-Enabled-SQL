@@ -18,13 +18,13 @@
             "value": "192.168.10.10"
         },
         "servicePrincipalAppId": {
-            "value": "33333333-XXXX-YYYY-XXXX-YTYTYTYT"
+            "value": "9567083a-5bc5-4b0a-87f1-c0ae249e13e0"
         },
         "servicePrincipalSecret": {
-            "value": "33333333-XXXX-YTYT-9c21-7777777777"
+            "value": "EVLAEx.fn9KgKqYZN56HXG4.RlwKv9oCX8"
         },
         "servicePrincipalTenantId": {
-            "value": "33333333-XXXX-41af-1111-7777777777"
+            "value": "72f988bf-86f1-41af-91ab-2d7cd011db47"
         },
         "logAnalyticsWorkspaceName": {
             "value": "rg-la-arc"
