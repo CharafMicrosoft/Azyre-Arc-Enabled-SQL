@@ -3,34 +3,31 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vmSize": {
-      "value": "<VM size>"
+      "value": "Standard_D8s_v3"
     },
     "vmName": {
-      "value": "<VM Name>"
+      "value": "Arc-SQL-Demo"
     },
     "adminUsername": {
-      "value": "<Windows VM admin username>"
+      "value": "arcdemo"
     },
     "adminPassword": {
-      "value": "<Windows VM admin password>"
+      "value": "ArcPassword123!!"
     },
     "myIpAddress": {
-      "value": "<your IP address>"
-    },
-    "logAnalayticsWorkspaceName": {
-      "value": "<your unique Log Analytics workspace name>"
+      "value": "192.168.10.10"
     },
     "servicePrincipalAppId": {
-      "value": "<Azure service principal name>"
+      "value": "9567083a-5bc5-4b0a-87f1-c0ae249e13e0"
     },
     "servicePrincipalSecret": {
-      "value": "<Azure service principal password>"
+      "value": "EVLAEx.fn9KgKqYZN56HXG4.RlwKv9oCX8"
     },
     "servicePrincipalTenantId": {
-      "value": "<Azure tenant ID>"
+      "value": "72f988bf-86f1-41af-91ab-2d7cd011db47"
     },
     "deployBastion": {
-      "value": "(true/false)"
+      "value": false
     }
   }
 }
